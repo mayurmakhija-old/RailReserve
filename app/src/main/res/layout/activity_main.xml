@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    tools:context="com.android.railreserve.MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/app_name"
+        android:text="Rail Reserve"
+        android:textSize="70sp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="40dp"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="sans-serif-light"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="Get Tickets"
+        android:id="@+id/get_tickets_button"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/get_tickets_button"
+        android:text="Book Ticket"
+        android:id="@+id/book_ticket_button"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Source:"
+        android:layout_below="@id/app_name"
+        android:textSize="20sp"
+        android:layout_alignLeft="@id/app_name"
+        android:layout_marginTop="50dp"
+        android:id="@+id/source"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Destination:"
+        android:layout_below="@id/app_name"
+        android:textSize="20sp"
+        android:layout_marginTop="50dp"
+        android:layout_alignEnd="@id/app_name"
+        android:id="@+id/dest"/>
+    <Spinner
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/source"
+        android:layout_alignLeft="@id/source"
+        android:spinnerMode="dialog"
+        android:id="@+id/source_spinner"></Spinner>
+
+    <Spinner
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/dest"
+        android:layout_alignLeft="@id/dest"
+        android:spinnerMode="dialog"
+        android:id="@+id/dest_spinner"></Spinner>
+</RelativeLayout>

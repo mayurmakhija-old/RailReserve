@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "316837637066",
+    "firebase_url": "https://rail-reserve.firebaseio.com",
+    "project_id": "rail-reserve",
+    "storage_bucket": "rail-reserve.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316837637066:android:353a0ff718f96111",
+        "android_client_info": {
+          "package_name": "com.android.railreserve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316837637066-tf9u630ksf7f76lrdhcsqbfvn2f4k1h7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.railreserve",
+            "certificate_hash": "880e125eb3d8bd4b5ab6a0dd21889502671e5623"
+          }
+        },
+        {
+          "client_id": "316837637066-usapt8av9ou60hgen25dgs51rbir7dvf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.railreserve",
+            "certificate_hash": "640242e5c1096cc5174bbe26cf26cb8553dae173"
+          }
+        },
+        {
+          "client_id": "316837637066-9h1hacqeno0d31n793rhgtna6nu8achk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXd5F0dK1mO_2eVluIIdMLF1dI6jZpAo0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316837637066-9h1hacqeno0d31n793rhgtna6nu8achk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

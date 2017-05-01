@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="M:\Tanya Jain Project\RailReserve\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="M:\Tanya Jain Project\RailReserve\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_cf4cffcab4dbf68dc3270c8fb7600c92ff95e159.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Tanya Jain Project\RailReserve\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4eeba61bbc47e49a5fbdfd9aa21af5d10bf4df7c">
+        <dex dex="M:\Tanya Jain Project\RailReserve\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-10.2.4_322dfed2cfea71c3ca721877d2ba4a84b0760cf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mayur Makhija\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="M:\Tanya Jain Project\RailReserve\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_462b8cd5eeea4c15c7be7ddf02668efb4c07b1c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Tanya Jain Project\RailReserve\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="M:\Tanya Jain Project\RailReserve\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.4_980266a44de7fe9d042fb6cf071e7f93560975f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Tanya Jain Project\RailReserve\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-auth\0.4.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37e245cd01989dcaca6a48699d0152f0997fb246">
+        <dex dex="M:\Tanya Jain Project\RailReserve\app\build\intermediates\pre-dexed\debug\com.firebaseui-firebase-ui-auth-0.4.4_5bb2f54eae1844f972128ec04e77227645345078.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Tanya Jain Project\RailReserve\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="M:\Tanya Jain Project\RailReserve\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.4_ce2589eda1f00ab443a44d0260322d26ab2f4472.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Tanya Jain Project\RailReserve\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b50fe5288bba9d1635ba619bd3c308319205543e">
+        <dex dex="M:\Tanya Jain Project\RailReserve\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-10.2.4_3499abfe9877f3c1a8c503aade874fd70644825e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Tanya Jain Project\RailReserve\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="M:\Tanya Jain Project\RailReserve\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_38a5fba9d853c03dab34c2ad02658f55f058d532.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Tanya Jain Project\RailReserve\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="M:\Tanya Jain Project\RailReserve\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.0.0_b83aff668ff4f6672b046eedfc51e5fd50d15af5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Tanya Jain Project\RailReserve\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="M:\Tanya Jain Project\RailReserve\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_5d086dae1b5ba84dc3070796ad305912b199a107.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Tanya Jain Project\RailReserve\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-database\0.4.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="acb0b23366d6d35b86d6564fcabf3a2ef439f9af">
+        <dex dex="M:\Tanya Jain Project\RailReserve\app\build\intermediates\pre-dexed\debug\com.firebaseui-firebase-ui-database-0.4.4_a7996bbe03c8ecdc3bd8cd13b3d24a546f5870f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Tanya Jain Project\RailReserve\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="688809418e4c2b5014a028c02708d6aeaba466ff">
+        <dex dex="M:\Tanya Jain Project\RailReserve\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-10.2.4_664897b27243b92ebedb9ca06fcf4d6be4c343c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Tanya Jain Project\RailReserve\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="M:\Tanya Jain Project\RailReserve\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.2.4_0536f07c553584c4d445cc9288ebb4ac73470feb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Tanya Jain Project\RailReserve\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="54933c89f90a872aa342004e82b23e776fe12736">
+        <dex dex="M:\Tanya Jain Project\RailReserve\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.2.4_2d728541b2745df871a3059050c7f13a93861562.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Tanya Jain Project\RailReserve\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.11.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="86da97c30f50a67ddabe2cf7040713ad17153fce">
+        <dex dex="M:\Tanya Jain Project\RailReserve\app\build\intermediates\pre-dexed\debug\com.facebook.android-facebook-android-sdk-4.11.0_3c71dbb6f71e7be7c4a7e53a96b9c047429cfe9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Tanya Jain Project\RailReserve\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="43df709c95f6b0501b3adbc7da992b6a69a03214">
+        <dex dex="M:\Tanya Jain Project\RailReserve\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.2.4_e63bd2b7051f1f88f53268f18027f012040c7288.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Tanya Jain Project\RailReserve\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="M:\Tanya Jain Project\RailReserve\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_d44dcf1d5da0f7e68e7520f93320c5dd283959d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Tanya Jain Project\RailReserve\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="29e4e634375ab2ed25f8db5387b564c78980422a">
+        <dex dex="M:\Tanya Jain Project\RailReserve\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.2.4_c24e8318bf27d6dbb57241db90a4aa9c7a0698b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Tanya Jain Project\RailReserve\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="M:\Tanya Jain Project\RailReserve\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.2.1_9f44f22f985ff957d25013155e0b293f6169e1a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mayur Makhija\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="M:\Tanya Jain Project\RailReserve\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_e325cb8905bfa7393936aeea8e321ed80cc24d8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Tanya Jain Project\RailReserve\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa6a6e385297077a344e0bb95ab6c22f22119261">
+        <dex dex="M:\Tanya Jain Project\RailReserve\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-10.2.4_6e02f37dca4540cbab822451e90b39221e7584a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Tanya Jain Project\RailReserve\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98ac18f891a8279ae57c4771cbf4a2a65f95b04c">
+        <dex dex="M:\Tanya Jain Project\RailReserve\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-10.2.4_e6e15d4ffd94253caf854f3c54a6d6b0925e12e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\androidsdk\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="M:\Tanya Jain Project\RailReserve\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_f1021b14958359370a3fc9213ec3791e984a43a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Tanya Jain Project\RailReserve\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="143e5647b772c08c9f0d807b24bbc0b05ff6c7d2">
+        <dex dex="M:\Tanya Jain Project\RailReserve\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.2.4_c8fa41d14eb9d06427afe22ce2cd789a3df32a4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Tanya Jain Project\RailReserve\app\build\intermediates\exploded-aar\com.android.support\customtabs\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0e5a66a941515d873a34065fe44fbba6ef422a1b">
+        <dex dex="M:\Tanya Jain Project\RailReserve\app\build\intermediates\pre-dexed\debug\com.android.support-customtabs-23.2.1_f5cf86f648d32a060b3c33877e1bc30ef2506d3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Tanya Jain Project\RailReserve\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui\0.4.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6410576864efb5ed0ec9f10c8e091909959ae27c">
+        <dex dex="M:\Tanya Jain Project\RailReserve\app\build\intermediates\pre-dexed\debug\com.firebaseui-firebase-ui-0.4.4_d3b6075dd487770e72a9ab1c2e8b9d210cdaa7a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Tanya Jain Project\RailReserve\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="M:\Tanya Jain Project\RailReserve\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.0.0_efa72b4f75f431673483f2690ef995a74a948ca7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Tanya Jain Project\RailReserve\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="M:\Tanya Jain Project\RailReserve\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_a0b689b1b09de80c8264f211c3d218c89d0cf670.jar" />
+    </item>
+
+</items>
